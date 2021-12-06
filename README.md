@@ -1,5 +1,7 @@
 # Trabajo Final del Primer Bimestre
 
+Trabajo realizado por: Kevin Barrazueta
+
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
